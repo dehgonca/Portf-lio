@@ -1,3 +1,3 @@
-<h1>Portifolio</h1>
+<h1>Portfolio</h1>
 
 ```status do projeto: finalizado```
